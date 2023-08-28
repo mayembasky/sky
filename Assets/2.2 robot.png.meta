@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 8112b2c7bbf226a408dd7df99b225c82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 889722471534664573
+    second: 2.2 robot_0
+  - first:
+      213: 4369968722373953612
+    second: 2.2 robot_1
+  - first:
+      213: -3450456459500052946
+    second: 2.2 robot_2
+  - first:
+      213: 5292010490087258891
+    second: 2.2 robot_3
+  - first:
+      213: -4864233860121133692
+    second: 2.2 robot_4
+  - first:
+      213: 8536535503529826796
+    second: 2.2 robot_5
+  - first:
+      213: 5345991030491109126
+    second: 2.2 robot_6
+  - first:
+      213: -4381926048367567486
+    second: 2.2 robot_7
+  - first:
+      213: -5167816194233420901
+    second: 2.2 robot_8
+  - first:
+      213: -8538588596341789352
+    second: 2.2 robot_9
+  - first:
+      213: 1954001013688109213
+    second: 2.2 robot_10
+  - first:
+      213: 7320524530433425650
+    second: 2.2 robot_11
+  - first:
+      213: -5920313796621109632
+    second: 2.2 robot_12
+  - first:
+      213: -244105162543017335
+    second: 2.2 robot_13
+  - first:
+      213: 3897218041887580394
+    second: 2.2 robot_14
+  - first:
+      213: -5397539368064222929
+    second: 2.2 robot_15
+  - first:
+      213: 8714156493222215933
+    second: 2.2 robot_16
+  - first:
+      213: -4388560267253878423
+    second: 2.2 robot_17
+  - first:
+      213: 7353590635802925642
+    second: 2.2 robot_18
+  - first:
+      213: 2295204426625801149
+    second: 2.2 robot_19
+  - first:
+      213: -2376977397157567429
+    second: 2.2 robot_20
+  - first:
+      213: 2362189444762802618
+    second: 2.2 robot_21
+  - first:
+      213: -2782089461236956194
+    second: 2.2 robot_22
+  - first:
+      213: -7628676382076770155
+    second: 2.2 robot_23
+  - first:
+      213: 6817147292116147972
+    second: 2.2 robot_24
+  - first:
+      213: -3192930346321967411
+    second: 2.2 robot_25
+  - first:
+      213: -3467863924209655590
+    second: 2.2 robot_26
+  - first:
+      213: 1905545278042047138
+    second: 2.2 robot_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2.2 robot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b9188bfdde85c00800000000000000
+      internalID: 889722471534664573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 389
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48caa0666f35ac30800000000000000
+      internalID: 4369968722373953612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 389
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e1c82a1248d10d0800000000000000
+      internalID: -3450456459500052946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 389
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bba41a08ff07940800000000000000
+      internalID: 5292010490087258891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 389
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d7d077315ce7cb0800000000000000
+      internalID: -4864233860121133692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 389
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9d76cdfcdd77670800000000000000
+      internalID: 8536535503529826796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 389
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d8d89486c03a40800000000000000
+      internalID: 5345991030491109126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 389
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d1507b9754033c0800000000000000
+      internalID: -4381926048367567486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 389
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93b4363d8a3848b0800000000000000
+      internalID: -5167816194233420901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 389
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85da8d739e6d08980800000000000000
+      internalID: -8538588596341789352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9802a7b1910e1b10800000000000000
+      internalID: 1954001013688109213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 284
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0840e464ab79560800000000000000
+      internalID: 7320524530433425650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 278
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086fd8918f1d6dda0800000000000000
+      internalID: -5920313796621109632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 282
+        width: 63
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982d8c2e5a3cc9cf0800000000000000
+      internalID: -244105162543017335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 282
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0e3f62923b51630800000000000000
+      internalID: 3897218041887580394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 278
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f297859ca861815b0800000000000000
+      internalID: -5397539368064222929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 283
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df08ca73927eee870800000000000000
+      internalID: 8714156493222215933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 281
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96170f240b3b813c0800000000000000
+      internalID: -4388560267253878423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 280
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1ca6e8b33d0660800000000000000
+      internalID: 7353590635802925642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 278
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb5fe7f3443adf10800000000000000
+      internalID: 2295204426625801149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b346a4ba6a7430fd0800000000000000
+      internalID: -2376977397157567429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 171
+        width: 77
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9934bd8ce28c020800000000000000
+      internalID: 2362189444762802618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 184
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed30d9900680469d0800000000000000
+      internalID: -2782089461236956194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598e6ebbf3f712690800000000000000
+      internalID: -7628676382076770155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 170
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5918e75f5b9e50800000000000000
+      internalID: 6817147292116147972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 174
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc60ae254ce60b3d0800000000000000
+      internalID: -3192930346321967411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 167
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0671c622cafdfc0800000000000000
+      internalID: -3467863924209655590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.2 robot_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 167
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a28e19955bd17a10800000000000000
+      internalID: 1905545278042047138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
