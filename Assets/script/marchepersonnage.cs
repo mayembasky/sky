@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class Marchepersonnage : MonoBehaviour
 {
 
@@ -9,6 +9,8 @@ public class Marchepersonnage : MonoBehaviour
     public float speed=5f;
     Rigidbody2D rb;
    Animator anim;
+   [SerializeField]
+   GameObject ImGameOver;
     void Start()
     {
       rb =GetComponent<Rigidbody2D>();
@@ -45,4 +47,16 @@ public class Marchepersonnage : MonoBehaviour
         anim.SetInteger("dir",4);
       }
      }
+     public void GameOver(){
+      ImGameOver.SetActive(true);
+      StartCoroutine(LoadGameOver());
+      
+     }
+     IEnumerator.LoadGameOver(){
+      yield return new WaitForSeconds(3f);
+      SceneManager.LoadScene(0);
+      
+     }
 }
+
+
